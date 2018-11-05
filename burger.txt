@@ -1,6 +1,7 @@
-Steak
-Salade
-Tomate
-Cornichon
-Fromage
-Pain
+pain
+steak
+cheddar
+salade
+moutarde
+cornichon
+
