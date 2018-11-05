@@ -1,6 +1,5 @@
 steak
 salade
-1
 tomate
 cornichon
 fromage
