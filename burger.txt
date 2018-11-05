@@ -1,5 +1,6 @@
-pain
 steak
-cheddar
 salade
-moutarde
+1
+tomate
+cornichon
+fromage
