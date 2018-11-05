@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pain
 Saucisse
 Ketchup
@@ -5,3 +6,10 @@ Moutarde
 Sel
 Poivre
 OLALALA
+=======
+pain viennois
+knack
+moutarde
+mayonnaise
+test
+>>>>>>> 78a4fcc06350f9d3b40fe0bef4a2049d66c32388

@@ -1,7 +1,12 @@
 pain
 steack
 salade
+<<<<<<< HEAD
 tomate
 cornichon
 fromage
 toto
+=======
+moutarde
+cornichon
+>>>>>>> 78a4fcc06350f9d3b40fe0bef4a2049d66c32388

@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 Pain
 Viande
 Salade
 Tomates
 Oignons
+=======
+pain nan
+fromage
+agneau
+salade
+tomate
+oignon
+>>>>>>> 78a4fcc06350f9d3b40fe0bef4a2049d66c32388
